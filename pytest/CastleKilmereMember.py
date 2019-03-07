@@ -1,3 +1,5 @@
+
+#http://alpopkes.com/posts/2018/07/coding-challenge-day-1/
 class CastleKilmereMember:
     """
     Creates a member of the Castle Kilmere School of Magic
